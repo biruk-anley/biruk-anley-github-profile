@@ -8,25 +8,25 @@
 
 <p align="left"> <a href="https://twitter.com/anleybiruk" target="blank"><img src="https://img.shields.io/twitter/follow/anleybiruk?logo=twitter&style=for-the-badge" alt="anleybiruk" /></a> </p>
 
-- 🔭 I’m currently working on **Ethiopian-Blog**
+- 🔭 I’m currently working on **Agenagn-Website**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Node.js**
 
 - 👯 I’m looking to collaborate on **React-Projects**
 
-- 🤝 I’m looking for help with **React-Api**
+- 🤝 I’m looking for help with **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/biruk-anley](https://github.com/biruk-anley)
 
 - 📝 I regularly write articles on [@AnleyBiruk](@AnleyBiruk)
 
-- 💬 Ask me about **HTML, CSS , JavaScript**
+- 💬 Ask me about **HTML, CSS , JavaScript, React**
 
 - 📫 How to reach me **birukanley1991@gmail.com**
 
 - 📄 Know about my experiences [https://biruk-anley.netlify.app/](https://biruk-anley.netlify.app/)
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I have the ability for making happines for my friend**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
